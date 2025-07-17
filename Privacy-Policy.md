@@ -10,7 +10,7 @@ RaterHelp is designed to work entirely on your local machine. All data generated
 
 * **Task Data:** Information about completed tasks, such as task count, Average Estimated Time (AET), and your real time spent. This data is used to populate your dashboard calendar.
 * **Event Logs:** A log of the extension's automated actions (e.g., "Task Acquired", "No Tasks Available") for debugging and review purposes.
-* **User Settings:** Your preferences for features like Smart Submit, Autoreload, Dark Mode, etc.
+* **User Settings:** Your preferences for features like Smart Submit, Smart reload, Dark Mode, etc.
 
 ## Data Sharing and Transmission
 
