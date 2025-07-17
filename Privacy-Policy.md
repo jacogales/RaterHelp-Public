@@ -18,4 +18,4 @@ RaterHelp is designed to work entirely on your local machine. All data generated
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at [(https://github.com/jacogales/RaterHelp-Public)].
+If you have any questions about this Privacy Policy, please contact us at [https://github.com/jacogales/RaterHelp-Public].
