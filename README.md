@@ -13,10 +13,9 @@ You can install the extension directly from the Chrome Web Store:
 RaterHelp is packed with features designed to make your work easier and more efficient.
 
 ### Intelligent Automation
-* **Auto-Acquire (ON / OFF / NTA Modes):** Automatically acquires tasks. The smart "NTA" mode only activates if you are coming from a "No Tasks Available" page, preventing it from grabbing tasks you may have intentionally released.
-* **Smart Auto-Submit:** Automatically submits your tasks upon reaching a configurable AET percentage. This feature detects if you are typing to postpone the submission and prevent incomplete comments.
-* **Auto-Reload:** When no tasks are available, the extension reloads the page at an interval you define.
-* **Specific Task Automation:** Automatically checks common confirmation checkboxes and scrolls to the main work area of the task page.
+* **Smart Acquire (ON / OFF / NTA Modes):** Automatically acquires tasks. The smart "NTA" mode only activates if you are coming from a "No Tasks Available" page, preventing it from grabbing tasks you may have intentionally released.
+* **Smart Submit:** Automatically submits your tasks upon reaching a configurable AET percentage. This feature detects if you are typing to postpone the submission and prevent incomplete comments.
+* **Smart Reload:** When no tasks are available, the extension reloads the page at an interval you define.
 
 ### Comprehensive Dashboard with Statistics
 * **Work Calendar:** Visualize your daily, weekly, and monthly activity in a modern, easy-to-read calendar.
