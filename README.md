@@ -45,7 +45,7 @@ Your privacy is the top priority. RaterHelp works 100% on your local computer.
 * All of your work data and logs are stored **locally** in your browser.
 * No information is **ever** sent to external servers or third parties. Your data is your own.
 
-You can read our full privacy policy here: **[View Privacy Policy](URL_TO_YOUR_PRIVACY_POLICY_GIST)**
+You can read our full privacy policy here: **[View Privacy Policy](https://github.com/jacogales/RaterHelp-Public/blob/d01bb367a45a0b7d80d9ab204f74baba45818146/Privacy-Policy.md)**
 
 ## Bug Reporting
 
